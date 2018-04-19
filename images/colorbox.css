@@ -20,7 +20,7 @@ a:hover.back-to-top {
 	background-color: #a90209;
 }
 div.gallery img {	
-    padding: 0 0px;
+    padding: 5 5 5 5px;
 }
 div.gallery {
     margin: 0px;
